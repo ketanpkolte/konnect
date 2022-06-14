@@ -1,4 +1,17 @@
+*{
+  margin:0;
+}
+
 body {
+  --konnect-color:#421f44;
+  --konnect-dark:#B565A7;
+  --border-gray:gray;
+  --border-lightgray: lightgray;
+  --text-white:white;
+  --some-color:#49274b;
+  --fiber-green:green;
+  
+  overflow: hidden;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
